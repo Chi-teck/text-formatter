@@ -1,0 +1,15 @@
+{
+  "name":        "chi-teck/text-formatter",
+  "type":        "library",
+  "keywords":   ["html", "text", "markup", "format", "formatter", "filter"],
+  "description": "A tool for handling the filtering of content.",
+  "license":     "GPL-2",
+  "autoload": {
+    "psr-0": {
+      "ChiTeck\\TextFormatter": "lib"
+    }
+  },
+  "require": {
+    "php": ">=5.3.3",
+  }
+}
